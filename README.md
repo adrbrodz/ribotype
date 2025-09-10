@@ -4,12 +4,13 @@
 for comprehensive annotation of riboswitch regulatory units, including aptamer,
 expression platform and prediction of mechanism of riboswitch action. The pipeline implements
 a range of bioinformatic tools to:
-
+<ul>
 <li>identify hallmarks of expression platform switching, based on analysis of
 secondary structure dynamics</li>
 <li>identify RBS sequences in bacterial UTR regions</li>
 <li>obtain covariance profiles for known riboswitch classes</li>
 <li>identify rho-independent transcription termination signals in bacterial genomes</li>
+</ul>
 
 ## Bioinformatic pipeline
 <p align="center">
